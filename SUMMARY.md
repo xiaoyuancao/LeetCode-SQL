@@ -1,4 +1,6 @@
 # Table of contents
 
-* [LeetCode-Studying](README.md)
-* [Page 1](page-1.md)
+## Group 1
+
+* [Page 1](README.md)
+* [LeetCode-Studying](group-1/readme.md)
