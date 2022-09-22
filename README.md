@@ -1,2 +1,1 @@
-# 175. Combine Two Tables
-
+A rookie's study record, there is a fire in his heart.
